@@ -1,0 +1,36 @@
+{
+  "name": "x509",
+  "version": "0.0.1",
+  "description": "A simple nodejs library built for in memory x509 manipulation",
+  "author": "Norman Joyner <norman.joyner@gmail.com>",
+  "contributors": [
+    {
+      "name": "Matt Kelly",
+      "email": ""
+    }
+  ],
+  "license": "MIT",
+  "main": "main",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/normanjoyner/x509.git"
+  },
+  "dependencies": {
+    "ursa": "0.8.x"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "x509",
+    "cert",
+    "in-memory",
+    "memory",
+    "parse"
+  ]
+}
